@@ -1,0 +1,12 @@
+{
+    "name": "NodeJsHelloWorld",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Bill Masters",
+    "contributors": "Bill Masters",
+    "dependencies": {},
+    "repository": {
+    "type": "git",
+    "url": "git://github.com/RegisDevOps/NodeJsHelloWorld.git"
+    }
+}
